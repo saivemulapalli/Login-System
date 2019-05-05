@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: url(../images/eiffel3.jpg);
+    background-size:cover;
+    background-position: center;
+    font-family: sans-serif;
+}
+.loginbox{
+     width: 350px;
+     height:420px;
+     margin: 0 50%;
+     background: blueviolet;
+     color: #fff;
+     top: 50%;
+     position:  absolute;
+     transform:  translate(-50%,-50%);
+     box-sizing: border-box;
+}
+
